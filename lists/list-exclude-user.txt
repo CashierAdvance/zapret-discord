@@ -1,0 +1,2 @@
+domain.example.abc
+# CashierAdvance/zapret-discord e19d5d37ce8b
